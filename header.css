@@ -1,0 +1,11 @@
+<style>
+#footer{
+    text-decoration: none;
+    cursor: pointer;
+
+}
+footer:hover{
+    color: orange;
+    transition: 2s;
+}
+</style>
